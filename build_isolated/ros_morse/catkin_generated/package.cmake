@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ros_morse")
+set(ros_morse_MAINTAINER "root <root@todo.todo>")
+set(ros_morse_DEPRECATED "")
+set(ros_morse_VERSION "1.0.0")
+set(ros_morse_BUILD_DEPENDS "std_msgs")
+set(ros_morse_RUN_DEPENDS "std_msgs")
+set(ros_morse_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,6 @@
+/home/erle/catkin_ws_morse/build/CMakeFiles/clean_test_results.dir
+/home/erle/catkin_ws_morse/build/CMakeFiles/clean_test_results_Project.dir
+/home/erle/catkin_ws_morse/build/CMakeFiles/download_extra_data.dir
+/home/erle/catkin_ws_morse/build/CMakeFiles/doxygen.dir
+/home/erle/catkin_ws_morse/build/CMakeFiles/run_tests.dir
+/home/erle/catkin_ws_morse/build/CMakeFiles/tests.dir

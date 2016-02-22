@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/erle/catkin_ws_morse/devel_isolated/ros_erle_statusled/setup.sh

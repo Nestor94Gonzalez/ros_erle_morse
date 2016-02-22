@@ -1,0 +1,8 @@
+prefix=/home/erle/catkin_ws_morse/install_isolated
+
+Name: ros_erle_statusled
+Description: Description of ros_erle_statusled
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/erle/catkin_ws_morse/install_isolated/lib 
+Requires: std_msgs

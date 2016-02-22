@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ros_erle_statusled")
+set(ros_erle_statusled_MAINTAINER "root <root@todo.todo>")
+set(ros_erle_statusled_DEPRECATED "")
+set(ros_erle_statusled_VERSION "1.0.0")
+set(ros_erle_statusled_BUILD_DEPENDS "std_msgs")
+set(ros_erle_statusled_RUN_DEPENDS "std_msgs")
+set(ros_erle_statusled_BUILDTOOL_DEPENDS "catkin")

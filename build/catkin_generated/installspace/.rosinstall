@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/erle/catkin_ws_morse/install/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/erle/catkin_ws_morse/install_isolated
+
+Name: ros_morse
+Description: Description of ros_morse
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/erle/catkin_ws_morse/install_isolated/lib 
+Requires: std_msgs

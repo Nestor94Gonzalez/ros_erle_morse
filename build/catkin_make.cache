@@ -1,0 +1,2 @@
+robot_blockly:ros_erle_statusled:ros_morse
+-DCATKIN_DEVEL_PREFIX=/home/erle/catkin_ws_morse/devel -DCMAKE_INSTALL_PREFIX=/home/erle/catkin_ws_morse/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/erle/catkin_ws_morse/devel_isolated/robot_blockly
+
+Name: robot_blockly
+Description: Description of robot_blockly
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/erle/catkin_ws_morse/devel_isolated/robot_blockly/lib 
+Requires: std_msgs
